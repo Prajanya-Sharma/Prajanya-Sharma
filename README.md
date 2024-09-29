@@ -31,7 +31,4 @@ Feel free to reach out if you'd like to collaborate on a project or discuss deve
 
 ---
 
-### 🐍 Contribution Snake Game:
-![Snake animation](https://github.com/Prajanya-Sharma/Prajanya-Sharma/blob/output/snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=Prajanya-Sharma&icon=9&color=8)](https://visitcount.itsvg.in)
